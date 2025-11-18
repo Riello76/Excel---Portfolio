@@ -44,3 +44,7 @@ This dataset can be used for:
 - **Filename:** `Biggest_Atlantic_Hurricanes.xlsx`
 - **Format:** Excel (.xlsx)
 - **Contents:** Full dataset with columns as described above.
+
+- ##Screenshots
+- <img width="1034" height="570" alt="image" src="https://github.com/user-attachments/assets/ebff0064-3a00-457c-9b1d-190c7d00b88b" />
+
