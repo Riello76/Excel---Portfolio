@@ -41,3 +41,22 @@ This dataset can be used for:
 - **Filename:** `Bike_Sales_Visualization.xlsx`
 - **Format:** Excel (.xlsx)
 - **Contents:** Three sheets with summarized sales and revenue data.
+
+
+##Screenshot 
+<p align="center">
+  <h3>Revenue and Profit by Year</h3>
+  <img src="https://github.com/user-attachments/assets/f93b7e44-313f-43ed-a6aa-f44d04dbe117" alt="Descrizione del contenuto dell'immagine 1" width="80%">
+</p>
+
+<p align="center">
+  <h3>Product Revenue by Country</h3>
+  <img src="https://github.com/user-attachments/assets/5d2558d0-30c8-4431-8ebf-a5047823fafc" alt="Descrizione del contenuto dell'immagine 2" width="80%">
+</p>
+
+<p align="center">
+  <h3>Revenue by Age Group</h3>
+  <img src="https://github.com/user-attachments/assets/4e42533d-c560-410d-a88f-325c423fd16c" alt="Descrizione del contenuto dell'immagine 3" width="80%">
+</p>
+
+
