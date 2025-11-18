@@ -37,9 +37,25 @@ This section details the functions and tools used to process and analyze the dat
 
 ***
 
-## 3. How to Use
+## Screenshots
+<p align="center">
+  <h2>1. High-Level Performance Metrics</h2>
+  <img src="https://github.com/user-attachments/assets/50c6ab52-bf25-474e-9548-74a516f9d465" alt="Dashboard View showing aggregated sales, quantity, and product category distribution." width="80%">
+  <p>This initial view consolidates key sales performance metrics such as Total Sales and overall Quantity. It provides the high-level figures and initial breakdown by Product Category, serving as the executive summary of the dashboard.</p>
+</p>
 
-The file is intended to be used by navigating to the relevant sheets to view the raw data or the pre-calculated analysis results.
+---
 
-* To modify the Pivot Table analysis, right-click on the table and select "Show Field List."
-* Ensure all filters and sorting are cleared before attempting new calculations on the raw data sheets.
+<p align="center">
+  <h2>2. Customer Demographics and Segmentation</h2>
+  <img src="https://github.com/user-attachments/assets/24834deb-6bde-49c3-825d-e792bdc1569e" alt="Detailed Sales Analysis focusing on customer demographics and performance." width="80%">
+  <p>This detailed section incorporates customer demographic analysis, featuring segmentations by **Gender** and **Generations**. It visualizes how sales are distributed across different customer cohorts and market segments.</p>
+</p>
+
+---
+
+<p align="center">
+  <h2>3. Final Data Aggregation View</h2>
+  <img src="https://github.com/user-attachments/assets/ba5c7b54-9ee5-4a10-a437-6b8d74e0bd2e" alt="Summary table displaying the final sum of sales volume per county and product type." width="80%">
+  <p>This section displays the underlying data aggregation, often featuring the final pivot table or summary data used to build the visualizations (e.g., "Sum of Sales Volume" by region and product). This ensures transparency and data accuracy.</p>
+</p>
