@@ -36,3 +36,7 @@ This dataset can be used for:
 - **Filename:** `Bike_Sales_Dataset.xlsx`
 - **Format:** Excel (.xlsx)
 - **Contents:** Full dataset with columns for age group, gender, country, year, and order quantities.
+
+- ##Screenshot
+- <img width="1584" height="659" alt="image" src="https://github.com/user-attachments/assets/53f57c1f-e75f-4011-9c8c-dcfa4bd35efb" />
+
