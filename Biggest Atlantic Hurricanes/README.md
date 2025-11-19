@@ -1,17 +1,20 @@
+# 🌀 Biggest Atlantic Hurricanes Dataset
 
-# Biggest Atlantic Hurricanes Dataset
+This dataset contains information about the most significant Atlantic hurricanes recorded from 1870 to 2017. It includes key details such as name, start date, damage in USD millions, Saffir-Simpson category, and maximum wind speed.
 
-This dataset contains information about the most significant Atlantic hurricanes recorded from 1870 to 2017. It includes key details about each hurricane, such as name, start date, damage in USD millions, Saffir-Simpson category, and maximum wind speed.
+---
 
-## Dataset Columns
+## 📊 Dataset Columns
 
-- **Name** – The name of the hurricane.
-- **Start Date** – The date when the hurricane started.
-- **Damage (USD Millions)** – Estimated economic damage caused by the hurricane in millions of US dollars.
-- **Category** – Saffir-Simpson hurricane category (1–5), indicating hurricane intensity.
-- **Max Wind Speed** – Maximum sustained wind speed in miles per hour (mph).
+- **Name** – The name of the hurricane  
+- **Start Date** – The date when the hurricane started  
+- **Damage (USD Millions)** – Estimated economic damage in millions of USD  
+- **Category** – Saffir-Simpson hurricane category (1–5) indicating intensity  
+- **Max Wind Speed** – Maximum sustained wind speed (mph)  
 
-## Saffir-Simpson Hurricane Scale
+---
+
+## 🌪 Saffir-Simpson Hurricane Scale
 
 | Category | Max Wind Speed (mph) |
 |----------|--------------------|
@@ -21,30 +24,50 @@ This dataset contains information about the most significant Atlantic hurricanes
 | 4        | 157–184            |
 | 5        | 157 and over       |
 
-> Note: Wind speeds for categories 4 and 5 sometimes overlap in historical records due to measurement differences.
+> Note: Wind speeds for categories 4 and 5 may overlap historically due to measurement differences.
 
-## Key Insights
+---
 
-- The dataset captures both historical and modern hurricanes.
-- Economic damages range from minor impacts (1 million USD) to catastrophic events (300,000 million USD, e.g., Hurricane Irma in 2017).
-- Several hurricanes reached Category 5, the highest intensity level.
-- Dates show that hurricanes have been consistently impacting the Atlantic region over the past 150+ years.
+## 🔑 Key Insights
 
-## Usage
+- Dataset includes both historical and modern hurricanes  
+- Economic damages range from minor (1M USD) to catastrophic (300,000M USD, e.g., Hurricane Irma, 2017)  
+- Multiple hurricanes reached Category 5  
+- Shows consistent hurricane activity over the past 150+ years  
+
+---
+
+## 🛠 Usage
 
 This dataset can be used for:
 
-- Data analysis and visualization
-- Studying historical hurricane patterns
-- Risk assessment and disaster preparedness
-- Machine learning projects related to weather prediction
+- Data analysis and visualization  
+- Studying historical hurricane patterns  
+- Risk assessment and disaster preparedness  
+- Machine learning projects for weather prediction  
 
-## File Information
+---
 
-- **Filename:** `Biggest_Atlantic_Hurricanes.xlsx`
-- **Format:** Excel (.xlsx)
-- **Contents:** Full dataset with columns as described above.
+## 📁 File Information
 
-- ##Screenshots
-- <img width="1034" height="570" alt="image" src="https://github.com/user-attachments/assets/ebff0064-3a00-457c-9b1d-190c7d00b88b" />
+- **Filename:** `Biggest_Atlantic_Hurricanes.xlsx`  
+- **Format:** Excel (.xlsx)  
+- **Contents:** Full dataset with columns described above  
 
+---
+
+## 🖼 Screenshot
+
+<img width="1034" height="570" alt="Hurricane Dataset Screenshot" src="https://github.com/user-attachments/assets/ebff0064-3a00-457c-9b1d-190c7d00b88b" />  
+
+---
+
+## 💬 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaspare-tocci/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Riello76)  
+📧 Email: [gaspare_tocci@yahoo.it](mailto:gaspare_tocci@yahoo.it)  
+
+---
+
+⭐ **Thanks for visiting this repository!**
