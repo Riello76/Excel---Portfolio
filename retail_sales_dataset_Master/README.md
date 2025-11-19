@@ -1,6 +1,6 @@
 # 📊 Excel Sales Dataset Analysis
 
-This document provides an overview of the data analysis capabilities and features implemented within this Excel file, which contains various datasets (such as retail sales and student scores).
+This Excel workbook contains **comprehensive sales data**, including transactional data, customer demographics, and aggregated metrics. It is designed to **practice data analysis, pivot tables, and visualization techniques**. The dataset allows exploring **overall sales performance, customer segmentation, and detailed aggregation of metrics**.  
 
 ---
 
@@ -41,19 +41,19 @@ The workbook is structured into several sheets, typically including:
 <p align="center">
   <h3>High-Level Performance Metrics</h3>
   <img src="https://github.com/user-attachments/assets/50c6ab52-bf25-474e-9548-74a516f9d465" alt="Dashboard View showing aggregated sales, quantity, and product category distribution." width="80%">
-  <p>Consolidates key sales performance metrics such as Total Sales and overall Quantity. Provides high-level figures and initial breakdown by Product Category.</p>
+  <p>Aggregated sales overview and total quantities across product categories, giving a high-level snapshot of overall performance.</p>
 </p>
 
 <p align="center">
   <h3>Customer Demographics and Segmentation</h3>
   <img src="https://github.com/user-attachments/assets/24834deb-6bde-49c3-825d-e792bdc1569e" alt="Detailed Sales Analysis focusing on customer demographics and performance." width="80%">
-  <p>Features segmentations by **Gender** and **Generations**, showing how sales are distributed across different customer cohorts.</p>
+  <p>Breakdown of sales by **Gender** and **Age Groups**, highlighting customer segmentation and key demographic insights.</p>
 </p>
 
 <p align="center">
   <h3>Final Data Aggregation View</h3>
   <img src="https://github.com/user-attachments/assets/ba5c7b54-9ee5-4a10-a437-6b8d74e0bd2e" alt="Summary table displaying the final sum of sales volume per county and product type." width="80%">
-  <p>Displays the final pivot table or summary data used to build the visualizations, ensuring transparency and data accuracy.</p>
+  <p>Displays the final aggregated data, including totals by product type and region, used to generate the visualizations and summaries.</p>
 </p>
 
 ---
@@ -67,3 +67,4 @@ The workbook is structured into several sheets, typically including:
 ---
 
 ⭐ **Thanks for visiting this repository!**
+
